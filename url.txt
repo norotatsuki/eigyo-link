@@ -1,1 +1,1 @@
-https://reservations-segments-compressed-shorter.trycloudflare.com
+https://api.trycloudflare.com
