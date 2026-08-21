@@ -1,1 +1,1 @@
-https://disposal-memories-counters-newsletters.trycloudflare.com
+https://api.trycloudflare.com
