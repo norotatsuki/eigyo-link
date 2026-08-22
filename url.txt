@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://streams-basename-neighbors-frequency.trycloudflare.com
