@@ -1,1 +1,1 @@
-https://nine-plastic-triumph-medicine.trycloudflare.com
+https://api.trycloudflare.com
