@@ -1,1 +1,1 @@
-https://controversial-currently-faces-cons.trycloudflare.com
+https://api.trycloudflare.com
