@@ -1,1 +1,1 @@
-https://lamb-mayor-debate-outreach.trycloudflare.com
+https://api.trycloudflare.com
