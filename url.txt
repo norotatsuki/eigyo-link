@@ -1,1 +1,1 @@
-https://ultra-valuation-restrict-reproduced.trycloudflare.com
+https://api.trycloudflare.com
