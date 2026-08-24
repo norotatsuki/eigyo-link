@@ -1,1 +1,1 @@
-https://pounds-base-emily-trunk.trycloudflare.com
+https://api.trycloudflare.com
