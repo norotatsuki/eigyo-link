@@ -1,1 +1,1 @@
-https://threaded-subscriptions-gordon-developmental.trycloudflare.com
+https://api.trycloudflare.com
