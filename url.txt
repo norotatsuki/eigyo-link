@@ -1,1 +1,1 @@
-https://outcome-wiki-persian-learned.trycloudflare.com
+https://api.trycloudflare.com
