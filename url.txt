@@ -1,1 +1,1 @@
-https://mail-bite-guy-eleven.trycloudflare.com
+https://api.trycloudflare.com
