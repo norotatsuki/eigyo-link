@@ -1,1 +1,1 @@
-https://king-numerous-curtis-indicators.trycloudflare.com
+https://api.trycloudflare.com
