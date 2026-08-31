@@ -1,1 +1,1 @@
-https://paris-academics-understanding-promo.trycloudflare.com
+https://api.trycloudflare.com
