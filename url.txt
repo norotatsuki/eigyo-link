@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://keeping-trivia-term-stores.trycloudflare.com
