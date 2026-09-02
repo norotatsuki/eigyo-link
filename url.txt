@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://reaction-log-bus-curriculum.trycloudflare.com
