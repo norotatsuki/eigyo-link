@@ -1,1 +1,1 @@
-https://scored-briefly-skiing-drainage.trycloudflare.com
+https://api.trycloudflare.com
