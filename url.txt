@@ -1,1 +1,1 @@
-https://pen-foo-fires-dates.trycloudflare.com
+https://api.trycloudflare.com
