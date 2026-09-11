@@ -1,1 +1,1 @@
-https://very-known-solaris-describes.trycloudflare.com
+https://api.trycloudflare.com
