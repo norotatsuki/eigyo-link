@@ -1,1 +1,1 @@
-https://deadline-sticky-tomorrow-thousands.trycloudflare.com
+https://api.trycloudflare.com
