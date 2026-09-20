@@ -1,1 +1,1 @@
-https://famous-strategy-satellite-newfoundland.trycloudflare.com
+https://api.trycloudflare.com
