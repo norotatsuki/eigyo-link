@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://southwest-magazines-directions-colon.trycloudflare.com
