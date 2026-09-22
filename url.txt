@@ -1,1 +1,1 @@
-https://televisions-charms-switching-environment.trycloudflare.com
+https://api.trycloudflare.com
