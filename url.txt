@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://insulin-pension-asn-fig.trycloudflare.com
