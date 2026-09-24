@@ -1,1 +1,1 @@
-https://functioning-bibliographic-content-indicated.trycloudflare.com
+https://api.trycloudflare.com
