@@ -1,1 +1,1 @@
-https://submit-floppy-friendly-outlined.trycloudflare.com
+https://api.trycloudflare.com
