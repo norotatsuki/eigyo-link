@@ -1,1 +1,1 @@
-https://brook-default-badly-attribute.trycloudflare.com
+https://api.trycloudflare.com
