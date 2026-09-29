@@ -1,1 +1,1 @@
-https://roles-veteran-sacramento-virtually.trycloudflare.com
+https://api.trycloudflare.com
