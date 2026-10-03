@@ -1,1 +1,1 @@
-https://amber-equally-hawk-calls.trycloudflare.com
+https://api.trycloudflare.com
