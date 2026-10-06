@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://continent-now-admission-supreme.trycloudflare.com
