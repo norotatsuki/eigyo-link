@@ -1,1 +1,1 @@
-https://jones-operates-publications-spine.trycloudflare.com
+https://api.trycloudflare.com
