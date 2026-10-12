@@ -1,1 +1,1 @@
-https://grey-copies-frankfurt-worm.trycloudflare.com
+https://api.trycloudflare.com
