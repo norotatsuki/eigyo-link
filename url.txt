@@ -1,1 +1,1 @@
-https://arthur-birds-soundtrack-alleged.trycloudflare.com
+https://api.trycloudflare.com
