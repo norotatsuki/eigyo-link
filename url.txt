@@ -1,1 +1,1 @@
-https://electric-kingdom-editorials-headset.trycloudflare.com
+https://api.trycloudflare.com
