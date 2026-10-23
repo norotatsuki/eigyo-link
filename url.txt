@@ -1,1 +1,1 @@
-https://yours-remember-specific-graduate.trycloudflare.com
+https://api.trycloudflare.com
