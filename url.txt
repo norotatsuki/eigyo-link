@@ -1,1 +1,1 @@
-https://homework-lecture-networks-gore.trycloudflare.com
+https://api.trycloudflare.com
