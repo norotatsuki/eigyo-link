@@ -1,1 +1,1 @@
-https://daily-explains-dirt-prayers.trycloudflare.com
+https://api.trycloudflare.com
