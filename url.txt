@@ -1,1 +1,1 @@
-https://machine-excess-don-diamond.trycloudflare.com
+https://api.trycloudflare.com
