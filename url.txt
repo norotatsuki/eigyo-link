@@ -1,1 +1,1 @@
-https://pockets-candidate-builder-iron.trycloudflare.com
+https://api.trycloudflare.com
