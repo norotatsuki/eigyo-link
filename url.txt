@@ -1,1 +1,1 @@
-https://briefing-models-dod-realm.trycloudflare.com
+https://api.trycloudflare.com
