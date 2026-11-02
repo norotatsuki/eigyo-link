@@ -1,1 +1,1 @@
-https://mere-manufacturing-expiration-steady.trycloudflare.com
+https://api.trycloudflare.com
