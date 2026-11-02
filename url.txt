@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://peripherals-nancy-graduation-cemetery.trycloudflare.com
