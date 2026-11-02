@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://cassette-clan-ict-warranty.trycloudflare.com
