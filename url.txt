@@ -1,1 +1,1 @@
-https://through-cover-field-satin.trycloudflare.com
+https://api.trycloudflare.com
