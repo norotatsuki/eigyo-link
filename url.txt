@@ -1,1 +1,1 @@
-https://jpg-kay-riders-legends.trycloudflare.com
+https://api.trycloudflare.com
