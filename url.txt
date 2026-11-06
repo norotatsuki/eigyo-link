@@ -1,1 +1,1 @@
-https://dangerous-continental-announced-sec.trycloudflare.com
+https://api.trycloudflare.com
