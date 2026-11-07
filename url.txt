@@ -1,1 +1,1 @@
-https://likes-equal-fighter-keep.trycloudflare.com
+https://api.trycloudflare.com
