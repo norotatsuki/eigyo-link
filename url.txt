@@ -1,1 +1,1 @@
-https://phpbb-direction-shanghai-drawings.trycloudflare.com
+https://api.trycloudflare.com
