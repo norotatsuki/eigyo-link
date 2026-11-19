@@ -1,1 +1,1 @@
-https://visiting-conducting-wider-cuts.trycloudflare.com
+https://api.trycloudflare.com
