@@ -1,1 +1,1 @@
-https://labour-interval-contractors-consumption.trycloudflare.com
+https://api.trycloudflare.com
