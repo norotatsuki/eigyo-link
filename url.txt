@@ -1,1 +1,1 @@
-https://subscribe-districts-prisoner-nobody.trycloudflare.com
+https://api.trycloudflare.com
