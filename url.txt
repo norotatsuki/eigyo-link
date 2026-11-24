@@ -1,1 +1,1 @@
-https://disposition-vitamin-doe-whose.trycloudflare.com
+https://api.trycloudflare.com
