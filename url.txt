@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://devices-molecules-likes-training.trycloudflare.com
