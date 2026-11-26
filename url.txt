@@ -1,1 +1,1 @@
-https://receptor-even-cornwall-cover.trycloudflare.com
+https://api.trycloudflare.com
